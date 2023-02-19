@@ -1,4 +1,2 @@
--- prints full description of the table first_table
-SELECT COLUMN_NAME, COLUMN_TYPE, IS_NULLABLE, COLUMN_KEY, COLUMN_DEFAULT, EXTRA
-FROM information_schema.COLUMNS
-WHERE TABLE_SCHEMA = 'hbtn_0c_0' AND TABLE_NAME = 'first_table';
+-- Prints full desription of the table.
+SHOW CREATE TABLE `first_table`;
