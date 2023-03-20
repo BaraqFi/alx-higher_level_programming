@@ -1,0 +1,1 @@
+A python project on object relational mapping (ORM) which aims to manipulate and update SQL databases without the developer coding in SQL but using python to relate the objects. The files each have a mini documentation which explains what each script is for. Some errors may be Included. This is to the best of my current abilities.
