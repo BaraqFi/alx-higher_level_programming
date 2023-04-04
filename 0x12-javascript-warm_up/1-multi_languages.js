@@ -1,10 +1,5 @@
 #!/usr/bin/node
-let firstline = "C is fun";
-console.log(firstline);
-
-let secondline = "Python is cool";
-console.log(secondline);
-
-let thirdline = "Javascript is amazing";
-console.log(thirdline);
-
+// This script prints multiple lines
+console.log('C is fun');
+console.log('Python is cool');
+console.log('JavaScript is amazing');
